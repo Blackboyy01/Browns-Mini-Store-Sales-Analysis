@@ -54,8 +54,9 @@ This project demonstrates a full analytics workflow: from raw data ingestion to 
 - [5. Dashboard Development](#5-dashboard-development-excel)
 - [6. Key Insights](#6-key-insights)
 - [7. Business Impact](#7-business-impact)
-- [8. Deliverables](#8-deliverables)
-- [9. Challenges & Resolution](#9-challenges--resolution)
+- [8. Recommendations](#8-Recommendations)
+- [9. Deliverables](#9-deliverables)
+- [10. Challenges & Resolution](#10-challenges--resolution)
 
 ---
 ## Executive Summary
@@ -224,8 +225,56 @@ Built an **interactive Excel dashboard** powered by Pivot Tables.
 - Product portfolio balancing
 
 ---
+## 8. Recommendations
+1. **Expand and Replicate the Supermarket Type 3 Model**:
 
-## 8. Deliverables
+Why it matters:
+ Supermarket Type 3 generates $3.69M, outperforming Type 1 by ~59% and Type 2 by ~85%, making it the most efficient revenue-generating format and the strongest candidate for scalable growth.
+
+How: 
+- Prioritise Supermarket Type 3 in the next budget cycle (60–70% of expansion budget).
+-  Conduct a comparative analysis of pricing, product mix, and layout across outlet types within 30 days, and promotional resources to this outlet format as the primary growth vehicle.
+
+2. **Strengthen Core Revenue Categories**: 
+
+Why it matters:
+ Fruits & Vegetables and Snack Foods generate ~$3M each, over 20x higher than low-performing categories, making them critical to overall revenue stability.
+
+How:
+- Increase shelf space allocation for these categories by 20–30% across all outlets
+- Launch bundled promotions targeting a 10–15% increase in average basket value within 30 days
+- Monitor KPIs: category revenue growth (+10–15%), inventory turnover rate, and basket size uplift
+
+3. **Develop Second-Tier SKUs to Reduce Revenue Concentration Risk**:
+
+Why it matters:
+ Top SKUs (FDQ04, FDF38) dominate performance, while the next tier shows a ~50% revenue drop, indicating untapped growth potential and high dependency risk.
+
+How:
+- Implement cross-merchandising with top SKUs to drive at least 10% uplift in visibility-driven sales
+- Introduce pricing or discount trials (5–10%) to test demand sensitivity.
+
+4. **Test the Grocery Store Channel**: 
+
+Why it matters:
+ At $339.83, the Grocery Store channel generates <10% of the top-performing outlet, indicating low efficiency and potential misallocation of resources.
+
+How:
+- Execute a two-month test period, set a performance benchmark of a minimum 25–40% revenue growth during the test period
+- If targets are not met, reallocate 30–50% of inventory and staffing resources to higher-performing supermarket formats.
+
+5. **Optimize Low-Performing Categories**:
+
+Why it matters:
+ Categories like Seafood ($149K) generate over 20x less revenue than top categories, indicating inefficient use of shelf space and capital.
+
+How:
+- Reduce inventory levels for low-performing categories by 20–40% in initial test outlets
+- Reallocate freed shelf space to top-performing categories, targeting a 10–15% increase in overall category revenue.
+- Run targeted promotions to test recovery potential, aiming for at least a 15% increase before further reduction.
+
+---
+## 9. Deliverables
 
 | Deliverable | Description |
 |---|---|
@@ -234,7 +283,7 @@ Built an **interactive Excel dashboard** powered by Pivot Tables.
 
 ---
 
-## 9. Challenges & Resolution
+## 10. Challenges & Resolution
 
 **Challenge 1 — Multi-dimensional aggregation**
 > Selecting the right formulas to replicate DAX-style logic (% of total, YoY variance) without a full data model.
