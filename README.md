@@ -74,6 +74,7 @@ At the Stock Keeping Unit (SKU) level, FDQ04 ($784.31) and FDF38 ($771.66) lead 
 
 | Tool | Purpose |
 |---|---|
+| **Microsoft Excel** | End-End Analysis |
 | **Power Query** | ETL / Data Transformation |
 | **Pivot Tables** | Multi-dimensional Analysis |
 | **Pivot Charts & Slicers** | Interactive Dashboarding |
