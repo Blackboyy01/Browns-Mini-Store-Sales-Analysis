@@ -7,6 +7,22 @@
 ![ Dashboard](https://img.shields.io/badge/Dashboard-visualization-CF222E?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
+## 🗂️ Table of Contents
+- [Project Description](#project-description)
+- [Project Structure](#project-structure)
+- [Executive Summary](#executive-summary)
+- [Tech Stack](#tech-stack)
+- [Process Flow](#process-flow)
+- [1. Data Ingestion & Transformation](#1-data-ingestion--transformation-power-query)
+- [2. Data Modeling](#2-data-modeling)
+- [3. Feature Engineering & KPI Development](#3-feature-engineering--kpi-development)
+- [4. Exploratory & Diagnostic Analysis](#4-exploratory--diagnostic-analysis-pivot-tables)
+- [5. Dashboard Development](#5-dashboard-development-excel)
+- [6. Key Insights](#6-key-insights)
+- [7. Business Impact](#7-business-impact)
+- [8. Recommendations](#8-recommendations)
+- [9. Deliverables](#9-deliverables)
+- [10. Challenges & Resolution](#10-challenges--resolution)
 
 ## Project Description:
 
@@ -43,21 +59,6 @@ Overall business performance trends
 This project demonstrates a full analytics workflow: from raw data ingestion to an executive-ready, interactive Excel dashboard. It covers ETL via Power Query, flat data modeling, KPI development using advanced formulas, and multi-dimensional analysis using Pivot Tables and Slicers.
 
 ---
-
-## 🗂️ Table of Contents
-- [Executive Summary](#Executive-Summary)
-- [Tech Stack](#tech-stack)
-- [1. Data Ingestion & Transformation](#1-data-ingestion--transformation-power-query)
-- [2. Data Modeling](#2-data-modeling)
-- [3. Feature Engineering & KPI Development](#3-feature-engineering--kpi-development)
-- [4. Exploratory & Diagnostic Analysis](#4-exploratory--diagnostic-analysis-pivot-tables)
-- [5. Dashboard Development](#5-dashboard-development-excel)
-- [6. Key Insights](#6-key-insights)
-- [7. Business Impact](#7-business-impact)
-- [8. Recommendations](#8-Recommendations)
-- [9. Deliverables](#9-deliverables)
-- [10. Challenges & Resolution](#10-challenges--resolution)
-
 ---
 ## Executive Summary
 The Mini Store recorded 8,523 sales transactions across multiple outlet formats and product categories. A structured analysis of the dataset reveals clear patterns in revenue distribution across time, channels, and product lines, highlighting both scalable strengths and underperforming segments requiring strategic adjustment
@@ -81,7 +82,8 @@ At the Stock Keeping Unit (SKU) level, FDQ04 ($784.31) and FDF38 ($771.66) lead 
 | **Advanced Formulas** | KPI & Metric Calculations |
 
 ---
-
+## Process Flow
+---
 ## 1. Data Ingestion & Transformation (Power Query)
 
 Imported the raw dataset into Excel Power Query to establish a structured, refreshable ETL pipeline.
