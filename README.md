@@ -151,7 +151,7 @@ Multi-dimensional analysis performed across four lenses:
 | Supermarket Type 3 | **$3.69M** | — (Top Performer) |
 | Supermarket Type 1 | ~$2.33M | ~59% below Type 3 |
 | Supermarket Type 2 | ~$1.44M | ~85% below Type 3 |
-| Grocery Stores | Low | Underperforming channel |
+| Grocery Stores | $339.83 | Underperforming channel |
 
 ---
 
