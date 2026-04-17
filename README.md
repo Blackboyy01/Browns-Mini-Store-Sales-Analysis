@@ -8,9 +8,10 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 ## 🗂️ Table of Contents
+
+- [Executive Summary](#executive-summary)
 - [Project Description](#project-description)
 - [Project Structure](#project-structure)
-- [Executive Summary](#executive-summary)
 - [Tech Stack](#tech-stack)
 - [Process Flow](#process-flow)
 - [1. Data Ingestion & Transformation](#1-data-ingestion--transformation-power-query)
@@ -23,6 +24,18 @@
 - [8. Recommendations](#8-recommendations)
 - [9. Deliverables](#9-deliverables)
 - [10. Challenges & Resolution](#10-challenges--resolution)
+
+  ## Executive Summary
+The Mini Store recorded 8,523 sales transactions across multiple outlet formats and product categories. A structured analysis of the dataset reveals clear patterns in revenue distribution across time, channels, and product lines, highlighting both scalable strengths and underperforming segments requiring strategic adjustment
+ 
+From a time-series perspective, the business reached its peak revenue of $3.63M in 1985, followed by a prolonged decline to a low of $190K in 1998, representing an approximate 94.8% drop from peak performance. However, the recovery to $1.85M by 2009 reflects a ~873% increase from the lowest point, indicating strong recovery capacity and underlying business resilience. This suggests that while the business is sensitive to external or operational shocks, it retains the ability to rebound when conditions are favorable.
+ 
+Outlet-level performance shows a clear structural advantage in the supermarket formats. Supermarket Type 3 leads with $3.69M, outperforming Supermarket Type 1 ($2.32M) by approximately 59% and Supermarket Type 2 ($1.99M) by ~85%. Collectively, supermarket formats contribute the overwhelming majority of total revenue. In contrast, the Grocery Store channel contributes only $339.83, less than 10% of the top-performing outlet, suggesting significantly lower customer traffic, a limited product assortment, or weaker conversion efficiency.
+ 
+At the category level, Fruits & Vegetables and Snack Foods each generate approximately $3M, placing them at the top of the revenue hierarchy and likely accounting for a substantial proportion of total sales. Compared to lower-performing categories such as Seafood ($149K), these top categories generate over 20x higher revenue, reinforcing their role as core demand drivers. This suggests a strong concentration of consumer preferences, while underperforming categories may reflect weak demand alignment and pricing inefficiencies.
+
+At the Stock Keeping Unit (SKU) level, FDQ04 ($784.31) and FDF38 ($771.66) lead performance, with FDY43 ($673.79) trailing by approximately 14–16%, indicating near-top-tier potential. However, the drop to NCR42 ($332.90) represents a ~50% decline, highlighting a sharp performance gap beyond the top three SKUs. This concentration introduces dependency risk, as revenue is heavily reliant on a narrow set of products.
+
 
 ## Project Description:
 
@@ -58,18 +71,6 @@ Overall business performance trends
 
 This project demonstrates a full analytics workflow: from raw data ingestion to an executive-ready, interactive Excel dashboard. It covers ETL via Power Query, flat data modeling, KPI development using advanced formulas, and multi-dimensional analysis using Pivot Tables and Slicers.
 
----
----
-## Executive Summary
-The Mini Store recorded 8,523 sales transactions across multiple outlet formats and product categories. A structured analysis of the dataset reveals clear patterns in revenue distribution across time, channels, and product lines, highlighting both scalable strengths and underperforming segments requiring strategic adjustment
- 
-From a time-series perspective, the business reached its peak revenue of $3.63M in 1985, followed by a prolonged decline to a low of $190K in 1998, representing an approximate 94.8% drop from peak performance. However, the recovery to $1.85M by 2009 reflects a ~873% increase from the lowest point, indicating strong recovery capacity and underlying business resilience. This suggests that while the business is sensitive to external or operational shocks, it retains the ability to rebound when conditions are favorable.
- 
-Outlet-level performance shows a clear structural advantage in the supermarket formats. Supermarket Type 3 leads with $3.69M, outperforming Supermarket Type 1 ($2.32M) by approximately 59% and Supermarket Type 2 ($1.99M) by ~85%. Collectively, supermarket formats contribute the overwhelming majority of total revenue. In contrast, the Grocery Store channel contributes only $339.83, less than 10% of the top-performing outlet, suggesting significantly lower customer traffic, a limited product assortment, or weaker conversion efficiency.
- 
-At the category level, Fruits & Vegetables and Snack Foods each generate approximately $3M, placing them at the top of the revenue hierarchy and likely accounting for a substantial proportion of total sales. Compared to lower-performing categories such as Seafood ($149K), these top categories generate over 20x higher revenue, reinforcing their role as core demand drivers. This suggests a strong concentration of consumer preferences, while underperforming categories may reflect weak demand alignment and pricing inefficiencies.
-
-At the Stock Keeping Unit (SKU) level, FDQ04 ($784.31) and FDF38 ($771.66) lead performance, with FDY43 ($673.79) trailing by approximately 14–16%, indicating near-top-tier potential. However, the drop to NCR42 ($332.90) represents a ~50% decline, highlighting a sharp performance gap beyond the top three SKUs. This concentration introduces dependency risk, as revenue is heavily reliant on a narrow set of products.
 
 ## 🛠️ Tech Stack
 
