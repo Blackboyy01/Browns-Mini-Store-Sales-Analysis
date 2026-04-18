@@ -216,18 +216,21 @@ Built an **interactive Excel dashboard** powered by Pivot Tables.
 ## 7. Business Impact
 
 **Growth opportunities identified:**
-- Supermarket Type 3 and top categories are clear targets for channel and category investment
+- Supermarket Type 3 ($3.69M) is the highest-performing format outperforming Type 1 by ~59% and Type 2 by ~85% flagged for 60–70% of expansion budget allocation
+- Fruits & Vegetables and Snack Foods (~$3M each) identified as core revenue anchors, targeted for 20–30% shelf space increase and 10–15% basket value uplift
 
 **Underperforming segments flagged:**
-- Grocery Stores and Seafood require strategic review — resource reallocation or exit
+- Grocery Store channel ($339.83) generates <10% of top outlet revenue  a two-month performance test with a 25–40% growth benchmark has been set before reallocation decision
+- Seafood ($149K) generates 20x less than top categories,inventory reduction of 20–40% recommended, with a 15% recovery threshold before exit
 
 **Risk highlighted:**
-- SKU concentration risk signals the need for product portfolio diversification
+- Top SKUs (FDQ04, FDF38) show a ~50% revenue drop to the next tier — cross-merchandising and 5–10% discount trials introduced to reduce concentration dependency and build second-tier SKU performance
 
 **Actionable direction provided for:**
-- Channel investment prioritization
-- Category optimization
-- Product portfolio balancing
+- Channel investment prioritization — budget and promotional resources redirected to Supermarket Type 3 within the next budget cycle
+- Category optimization — KPIs established for revenue growth (+10–15%), inventory turnover, and basket size uplift
+- Product portfolio balancing — second-tier SKU visibility and demand sensitivity actively being tested
+
 
 ---
 ## 8. Recommendations
