@@ -7,7 +7,7 @@
 ![ Dashboard](https://img.shields.io/badge/Dashboard-visualization-CF222E?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-## 🗂️ Table of Contents
+## Table of Contents
 
 - [Executive Summary](#executive-summary)
 - [Project Description](#project-description)
@@ -133,7 +133,7 @@ Calculated key business metrics using Excel formulas and Pivot-based logic:
 
 Multi-dimensional analysis performed across four lenses:
 
-### 📅 Time-Series Analysis
+### Time-Series Analysis
 
 | Metric | Value |
 |---|---|
@@ -146,7 +146,7 @@ Multi-dimensional analysis performed across four lenses:
 
 ---
 
-### 🏪 Channel Performance
+### Channel Performance
 
 | Outlet Type | Revenue | vs. Type 3 |
 |---|---|---|
@@ -157,7 +157,7 @@ Multi-dimensional analysis performed across four lenses:
 
 ---
 
-### 📦 Category Performance
+### Category Performance
 
 | Category | Revenue |
 |---|---|
@@ -170,7 +170,7 @@ Multi-dimensional analysis performed across four lenses:
 
 ---
 
-### 🔖 SKU-Level Analysis
+### Stock Keeping Units (SKU) Level Analysis
 
 | SKU | Revenue |
 |---|---|
@@ -188,17 +188,17 @@ Built an **interactive Excel dashboard** powered by Pivot Tables.
 
 **Dashboard components:**
 
-- 📊 KPI Summary — Total Revenue, Top Categories, Top Outlets
-- 📈 Trend Analysis Charts — Time-series revenue visualization
-- 📉 Category & Outlet Comparison Visuals
+- KPI Summary — Total Revenue, Top Categories, Top Outlets
+- Trend Analysis Charts — Time-series revenue visualization
+-  Category & Outlet Comparison Visuals
 
 **Dynamic filtering via Slicers:**
 
 | Slicer | Filter Scope |
 |---|---|
 | Outlet Type | Filter by channel |
-| Category | Filter by product group |
-| Time | Filter by year / period |
+| Outlet Size | Filter by channel size|
+| Item Type | Filter by type of goods |
 
 ---
 
