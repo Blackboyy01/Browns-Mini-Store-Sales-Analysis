@@ -50,6 +50,7 @@ Product concentration risks,
 Overall business performance trends
 4. **Dashboard Requirements**:
    Using Pivot Tables and Charts, build an interactive dashboard that answers the following:
+   **Key Questions to be Answered by the dashboard**
 - Top 5 Item Types by total sales
 - Bottom 5 Item Identifiers by total sales
 - Yearly Sales Trend
@@ -67,9 +68,9 @@ Overall business performance trends
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
-This project demonstrates a full analytics workflow: from raw data ingestion to an executive-ready, interactive Excel dashboard. It covers ETL via Power Query, flat data modeling, KPI development using advanced formulas, and multi-dimensional analysis using Pivot Tables and Slicers.
+This project is a full analytics workflow: from raw data ingestion to an executive-ready, interactive Excel dashboard. It covers ETL via Power Query, flat data modeling, KPI development using advanced formulas, and multi-dimensional analysis using Pivot Tables and Slicers.
 
 
 ## 🛠️ Tech Stack
@@ -87,16 +88,16 @@ This project demonstrates a full analytics workflow: from raw data ingestion to 
 ---
 ## 1. Data Ingestion & Transformation (Power Query)
 
-Imported the raw dataset into Excel Power Query to establish a structured, refreshable ETL pipeline.
+Imported the raw dataset into Excel, then Power Query to establish a structured, refreshable ETL pipeline.
 
 **Transformation steps applied:**
 
-- ✅ Standardized data types — dates, currency, and categorical fields
-- ✅ Cleaned missing values using logical replacement methods
-- ✅ Removed duplicate records to ensure data integrity
-- ✅ Filtered outliers to prevent skewed aggregations
-- ✅ Normalized currency values for consistent cross-segment reporting
-- ✅ Built a refreshable pipeline for full reproducibility
+- Standardized data types — dates, currency, and categorical fields
+- Cleaned missing values using logical replacement methods
+-  Removed duplicate records to ensure data integrity
+-  Filtered outliers to prevent skewed aggregations
+-  Normalized currency values for consistent cross-segment reporting
+-  Built a refreshable pipeline
 
 ---
 
