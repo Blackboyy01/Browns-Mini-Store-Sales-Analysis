@@ -15,6 +15,7 @@
 - [Project Description](#project-description)
 - [Project Structure](#project-structure)
 - [Business Questions](#business-questions)
+- [Business Answers](#business-answers)
 - [Tech Stack](#tech-stack)
 - [Process Flow](#process-flow)
 - [1. Data Ingestion & Transformation](#1-data-ingestion--transformation-power-query)
@@ -97,6 +98,8 @@ This project is a full analytics workflow: from raw data ingestion to an executi
 
 [View the Business Questions](./Business%20Questions%20.PNG)
 
+## Business Answers
+**Provided in the Dashboard**
 -----
 
 ## Tech Stack
