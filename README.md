@@ -32,7 +32,7 @@
 
 ## Executive Summary
 
-[Executive Summary for Browns Store.pdf](./Executive%20Summary%20for%20Browns%20Store.pdf)
+[Executive Summary for Browns Store.pdf](./Executive%20summary%20for%20Browns%20Store.pdf)
 
 Browns Mini Store has processed **8,523 sales transactions** across multiple outlet formats and product categories. The business has demonstrated a clear capacity for recovery: despite a **~94.8% revenue decline** from its peak of **$3.63M in 1985** to a low of **$190K in 1998**, it rebounded to **$1.85M by 2009**, a **~873% increase** from its lowest point. That trajectory is not a coincidence; it reflects a business with real demand behind it. The question is no longer whether this business can grow, but where to focus to grow it faster and more efficiently.
 
