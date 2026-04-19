@@ -95,7 +95,7 @@ This project is a full analytics workflow: from raw data ingestion to an executi
 
 ## Business Questions
 
-[Business Questions.PNG](./Business%20Questions.PNG)
+[View the Business Questions](./Business%20Questions%20.PNG)
 
 -----
 
