@@ -11,8 +11,10 @@
 ## Table of Contents
 
 - [Executive Summary](#executive-summary)
+- [Problem Statement](#problem-statement)
 - [Project Description](#project-description)
 - [Project Structure](#project-structure)
+- [Business Questions](#business-questions)
 - [Tech Stack](#tech-stack)
 - [Process Flow](#process-flow)
 - [1. Data Ingestion & Transformation](#1-data-ingestion--transformation-power-query)
@@ -26,7 +28,11 @@
 - [9. Deliverables](#9-deliverables)
 - [10. Challenges & Resolution](#10-challenges--resolution)
 
+-----
+
 ## Executive Summary
+
+[Executive Summary for Browns Store.pdf](./Executive%20Summary%20for%20Browns%20Store.pdf)
 
 Browns Mini Store has processed **8,523 sales transactions** across multiple outlet formats and product categories. The business has demonstrated a clear capacity for recovery: despite a **~94.8% revenue decline** from its peak of **$3.63M in 1985** to a low of **$190K in 1998**, it rebounded to **$1.85M by 2009**, a **~873% increase** from its lowest point. That trajectory is not a coincidence; it reflects a business with real demand behind it. The question is no longer whether this business can grow, but where to focus to grow it faster and more efficiently.
 
@@ -36,30 +42,46 @@ At the category level, Fruits & Vegetables and Snack Foods each generate approxi
 
 At the Stock Keeping Unit (SKU) level, FDQ04 (**$784.31**) and FDF38 (**$771.66**) lead performance, with FDY43 (**$673.79**) trailing by approximately **14 to 16%**, indicating near-top-tier potential. However, the drop to NCR42 (**$332.90**) represents a **~50% decline**, highlighting a sharp performance gap beyond the top three SKUs. This concentration introduces dependency risk, as revenue is heavily reliant on a narrow set of products.
 
+-----
+
+## Problem Statement
+
+Browns Mini Store operates across multiple outlet formats and product categories, managing over 8,500 sales transactions spanning several decades. Despite demonstrating strong recovery potential — growing nearly **873%** from its lowest revenue point — the business lacks a structured, data-driven view of what is actually driving or limiting its performance.
+
+Specifically, the business faces four compounding challenges:
+
+1. **Revenue volatility with no clear diagnostic framework** 
+2. **Channel performance imbalance** 
+3. **Category and SKU concentration risk** 
+4. **Absence of actionable business intelligence** 
+
+**This project addresses these challenges** by building an end-to-end analytics solution  from raw data ingestion and transformation through to an interactive executive dashboard that surfaces clear, evidence-based answers to the business’s most critical performance questions.
+
+-----
+
 ## Project Description
 
 The task is to clean, transform, and analyze the transactional sales records to evaluate revenue performance across time, outlet formats, product categories, and Stock Keeping Unit (SKU) level contributions, then present findings in an interactive dashboard.
 
+-----
+
 ## Objectives
 
-1. **Data Cleaning**: Identify and remove any records with missing or null values.
-1. **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.
-1. **Business Analysis**: Use Excel to answer specific business questions and derive insights from the sales data: Core revenue drivers, Underperforming segments, Product concentration risks, Overall business performance trends.
-1. **Dashboard Requirements**:
-   Using Pivot Tables and Charts, build an interactive dashboard that answers the following:
+1. **Establish a Clean, Reliable Data Foundation**
    
-   **Key Questions to be Answered by the dashboard**
-- Top 5 Item Types by total sales
-- Bottom 5 Item Identifiers by total sales
-- Yearly Sales Trend
-- Average Sales by each Outlet Type
-- Total Sales Count
-- Identify the year with the highest and lowest total sales
+   Transform raw transactional records into a structured, validated dataset by identifying and resolving missing values, removing duplicates, standardizing data types, and filtering outliers ensuring all downstream analysis and business decisions are built on trustworthy data.
+1. **Uncover the Root Causes of Revenue Volatility**
    
-   **Add slicers for:**
-- Item Type
-- Outlet Type
-- Outlet Size
+2. **Evaluate and Rank Channel Performance to Inform Investment Decisions**
+   
+3. **Identify Category and SKU-Level Concentration Risks**
+   
+4. **Develop a Decision-Ready, Interactive Executive Dashboard**
+   
+   Build a fully interactive Excel dashboard powered by Pivot Tables and Slicers that enables non-technical stakeholders to dynamically filter and explore performance data by outlet type, outlet size, and item type answering the business’s core questions on demand without reliance on ad hoc reporting.
+5. **Translate Analytical Findings into Measurable Business Actions**
+
+-----
 
 ## Project Structure
 
@@ -68,6 +90,14 @@ The task is to clean, transform, and analyze the transactional sales records to 
 ## Project Overview
 
 This project is a full analytics workflow: from raw data ingestion to an executive-ready, interactive Excel dashboard. It covers ETL via Power Query, flat data modeling, KPI development using advanced formulas, and multi-dimensional analysis using Pivot Tables and Slicers.
+
+-----
+
+## Business Questions
+
+[Business Questions.PNG](./Business%20Questions.PNG)
+
+-----
 
 ## Tech Stack
 
@@ -307,6 +337,6 @@ Built an **interactive Excel dashboard** powered by Pivot Tables.
 
 **Resolution:** Applied structured layout principles: KPI prioritization at the top, progressive disclosure via Slicers, and chart types and colors chosen for clarity over complexity.
 
-------
+-----
 
 *Built with Microsoft Excel · Power Query · Pivot Tables · Advanced Formulas*
