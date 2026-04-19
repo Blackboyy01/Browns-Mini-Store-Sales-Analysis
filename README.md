@@ -46,7 +46,7 @@ At the Stock Keeping Unit (SKU) level, FDQ04 (**$784.31**) and FDF38 (**$771.66*
 
 ## Problem Statement
 
-Browns Mini Store operates across multiple outlet formats and product categories, managing over 8,500 sales transactions spanning several decades. Despite demonstrating strong recovery potential — growing nearly **873%** from its lowest revenue point — the business lacks a structured, data-driven view of what is actually driving or limiting its performance.
+Browns Mini Store operates across multiple outlet formats and product categories, managing over 8,500 sales transactions spanning several decades. Despite demonstrating strong recovery potential  growing nearly **873%** from its lowest revenue point  the business lacks a structured, data-driven view of what is actually driving or limiting its performance.
 
 Specifically, the business faces four compounding challenges:
 
@@ -55,7 +55,7 @@ Specifically, the business faces four compounding challenges:
 3. **Category and SKU concentration risk** 
 4. **Absence of actionable business intelligence** 
 
-**This project addresses these challenges** by building an end-to-end analytics solution  from raw data ingestion and transformation through to an interactive executive dashboard that surfaces clear, evidence-based answers to the business’s most critical performance questions.
+**This project addresses these challenges** by building an end-to-end analytics solution  from raw data ingestion and transformation through to an interactive executive dashboard that surfaces clear, evidence based answers to the business’s most critical performance questions.
 
 -----
 
@@ -89,7 +89,7 @@ The task is to clean, transform, and analyze the transactional sales records to 
 
 ## Project Overview
 
-This project is a full analytics workflow: from raw data ingestion to an executive-ready, interactive Excel dashboard. It covers ETL via Power Query, flat data modeling, KPI development using advanced formulas, and multi-dimensional analysis using Pivot Tables and Slicers.
+This project is a full analytics workflow: from raw data ingestion to an executive ready, interactive Excel dashboard. It covers ETL via Power Query, flat data modeling, KPI development using advanced formulas, and multi-dimensional analysis using Pivot Tables and Slicers.
 
 -----
 
