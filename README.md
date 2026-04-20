@@ -319,8 +319,8 @@ Built an **interactive Excel dashboard** powered by Pivot Tables.
 
 |Deliverable        |Description                                                 |
 |-------------------|------------------------------------------------------------|
-|📂 Excel Dashboard  |Interactive, slicer-driven, auto-refreshable via Power Query|
-|📑 Presentation Deck|Structured, insight-driven storytelling for stakeholders    |
+|Excel Dashboard  |Interactive, slicer-driven, auto-refreshable via Power Query|
+| Presentation Deck|Structured, insight-driven storytelling for stakeholders    |
 
 -----
 
