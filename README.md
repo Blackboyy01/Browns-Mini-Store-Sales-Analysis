@@ -23,6 +23,7 @@
 - [3. Feature Engineering & KPI Development](#3-feature-engineering--kpi-development)
 - [4. Exploratory & Diagnostic Analysis](#4-exploratory--diagnostic-analysis-pivot-tables)
 - [5. Dashboard Development](#5-dashboard-development-excel)
+- [Dashboard](dashboard-)
 - [6. Key Insights](#6-key-insights)
 - [7. Business Impact](#7-business-impact)
 - [8. Recommendations](#8-recommendations)
@@ -237,6 +238,10 @@ Built an **interactive Excel dashboard** powered by Pivot Tables.
 |Item Type  |Filter by type of goods|
 
 -----
+## DashBoard
+
+[View Dashboard](./Brown%20DB.png)
+
 
 ## 6. Key Insights
 
@@ -258,7 +263,7 @@ Built an **interactive Excel dashboard** powered by Pivot Tables.
 
 **Underperforming segments flagged:**
 
-- Grocery Store channel (**$339.83**) generates less than **10%** of top outlet revenue. A two-month performance test with a **25 to 40%** growth benchmark has been set before reallocation decision
+- Grocery Store channel (**$339.83**) generates less than **10%** of top outlet revenue. A two-month performance test with a **25 to 40%** growth benchmark has been set before the reallocation decision
 - Seafood (**$149K**) generates **20x** less than top categories. Inventory reduction of **20 to 40%** recommended, with a **15%** recovery threshold before exit
 
 **Risk highlighted:**
