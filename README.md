@@ -23,7 +23,7 @@
 - [3. Feature Engineering & KPI Development](#3-feature-engineering--kpi-development)
 - [4. Exploratory & Diagnostic Analysis](#4-exploratory--diagnostic-analysis-pivot-tables)
 - [5. Dashboard Development](#5-dashboard-development-excel)
-- [Dashboard](dashboard-)
+- [DashBoard](dashboard-)
 - [6. Key Insights](#6-key-insights)
 - [7. Business Impact](#7-business-impact)
 - [8. Recommendations](#8-recommendations)
