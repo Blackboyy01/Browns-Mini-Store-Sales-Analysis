@@ -45,6 +45,10 @@ At the category level, Fruits & Vegetables and Snack Foods each generate approxi
 At the Stock Keeping Unit (SKU) level, FDQ04 (**$784.31**) and FDF38 (**$771.66**) lead performance, with FDY43 (**$673.79**) trailing by approximately **14 to 16%**, indicating near-top-tier potential. However, the drop to NCR42 (**$332.90**) represents a **~50% decline**, highlighting a sharp performance gap beyond the top three SKUs. This concentration introduces dependency risk, as revenue is heavily reliant on a narrow set of products.
 
 -----
+## DashBoard
+
+[View Dashboard](./Brown%20DB.png)
+
 
 ## Problem Statement
 
